@@ -1,0 +1,48 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+.container {
+	width: 100%;
+}
+
+.header {
+	background: #6CD87C;
+	color:black;
+}
+
+.header > div {
+	height: 100%;
+}
+
+.caption_container > div {
+  display: table-column;
+}
+
+.caption {
+
+}
+
+.content {
+	color: white;
+}
+
+.content_column {
+  padding-left: 20px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #f5f5f5;
+}
+
+/*.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}*/
